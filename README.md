@@ -4,7 +4,7 @@ Welcome to the Terraform LaTeX Project! This repository provides a full document
 
 Just as technology continues to grow, this repository will be updated with the latest versions and innovations of Terraform.
 
-Enjoy learning Terraform!:earth_africa:
+Enjoy learning Terraform! :earth_africa:
 
 ### Install latex
 ```bash
